@@ -1,3 +1,5 @@
+#TODO: This doc will change. Just setting up project for now
+
 # zencashjs ![build status](https://api.travis-ci.org/ZencashOfficial/zencashjs.svg?branch=master)
 Dead simple and easy to use JavaScript based library for zencash. Inspired by [pybitcointools](https://github.com/vbuterin/pybitcointools)
 
